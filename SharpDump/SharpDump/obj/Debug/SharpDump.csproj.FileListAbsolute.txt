@@ -1,0 +1,5 @@
+F:\tools\hashdump\SharpDump\SharpDump\bin\Debug\SharpDump.exe
+F:\tools\hashdump\SharpDump\SharpDump\bin\Debug\SharpDump.pdb
+F:\tools\hashdump\SharpDump\SharpDump\obj\Debug\SharpDump.csprojResolveAssemblyReference.cache
+F:\tools\hashdump\SharpDump\SharpDump\obj\Debug\SharpDump.exe
+F:\tools\hashdump\SharpDump\SharpDump\obj\Debug\SharpDump.pdb
